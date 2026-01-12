@@ -21,6 +21,3 @@ Experimental results on the validation set depict a strong performance, such as 
  --numpy
  --matplotlib
  
-فف
-
-فاهس 
