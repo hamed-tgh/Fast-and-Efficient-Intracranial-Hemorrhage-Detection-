@@ -12,13 +12,13 @@ Experimental results on the validation set depict a strong performance, such as 
 
 
 # Requirements
- --torch
- --tqdm
- --timm
- --torchvision
- --sklearn
- --glob
- --pandas
- --numpy
- --matplotlib
+ 1) torch
+ 2) tqdm
+ 3) timm
+ 4) torchvision
+ 5) sklearn
+ 6) glob
+ 7) pandas
+ 8) numpy
+ 9) matplotlib
  
