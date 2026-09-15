@@ -21,4 +21,9 @@ Experimental results on the validation set depict a strong performance, such as 
  7) pandas
  8) numpy
  9) matplotlib
+
+ 
+ # Run 
+ python train_repvit_m1_1.py
+
  
